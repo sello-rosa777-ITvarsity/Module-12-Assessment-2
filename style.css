@@ -1,0 +1,47 @@
+body {
+    display: ruby-base-container;
+    margin: 20px;
+    background-color: yellow;
+    padding-left: 10px;
+}
+
+button{
+    background-color: rgb(187, 59, 127);
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    text-transform: none;
+    cursor: default;
+    font: 400 13.3333px Arial;
+    padding-left: 315px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+table {
+
+    background-color: rgb maroon;
+    
+    padding-bottom: 0;
+    text-decoration: unset
+    color: black;
+    padding-right: 100px;
+    width: 73%;
+    height: 100px;
+    
+}
+
+
+
+label {
+    color:blanchedalmond;
+    background-color: rgb(255, 0, 98);
+}
+
+input:not([type="image" i]) {
+    box-sizing: border-box;
+}
+
+input[type="text" i] {
+    padding: 1px 2px;
+}
+
